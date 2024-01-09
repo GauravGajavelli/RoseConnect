@@ -1,2 +1,4 @@
 # Rose Connect
-Repository for the Rose Connect CSSE 280 Project
+Repository for the Rose Connect Project
+
+Scheduling/instant messaging platform to facilitate coordination of RHIT study groups
